@@ -7,8 +7,7 @@ Python · Lua · JavaScript · PostgreSQL · Docker · Git
 
 #### Projects
 
-- **Telemonitoring platform** — FastAPI API with PostgreSQL and MongoDB, role-based
-  permissions and medically validated alerts.
+- **Telemonitoring platform** — FastAPI API with PostgreSQL, MongoDB and role-based access.
 - **Transaction ledger** — digital signatures, hash-chained blocks and integrity
   verification. Flask + PostgreSQL.
 - **Factorio mods** — several published in Lua, MIT licensed.
