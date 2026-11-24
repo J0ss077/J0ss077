@@ -1,10 +1,8 @@
 Software engineering student, mainly focused on backend development.
 
-**Looking for an internship in 2027 · remote.**
-
 Python · Lua · JavaScript · PHP · Java · C# · PostgreSQL · MySQL · MongoDB · Git · Docker · Linux
 
-#### Projects
+#### Main Projects
 
 - **Telemonitoring platform** — FastAPI API with PostgreSQL, MongoDB and role-based access.
 - **Transaction ledger** — digital signatures, hash-chained blocks and integrity verification. Flask + PostgreSQL.
