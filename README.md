@@ -2,7 +2,7 @@ Software engineering student, mainly focused on backend development.
 
 **Looking for an internship in 2027 · remote.**
 
-Python · Lua · JavaScript · Java · C# · PostgreSQL · Docker · Git · Linux
+Python · Lua · JavaScript · PHP · Java · C# · PostgreSQL · MySQL · MongoDB · Git · Docker · Linux
 
 #### Projects
 
